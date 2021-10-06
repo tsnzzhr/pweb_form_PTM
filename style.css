@@ -1,0 +1,66 @@
+body{
+    height: auto;
+    width: auto;
+}
+
+header{
+    background-color: #edf2f4 !important;
+}
+
+header img{
+    height: 10rem;
+    width: 15rem;
+    margin:-10px 50px 20px 50px;
+}
+
+h1{
+    font-weight: bold !important;
+    color:#0067ac !important;
+}
+
+.formulir-container{
+    margin:5% 25%;
+    background-color: #edf2f4;
+    border-radius: 20px;
+    height: auto;
+    width: 700px;
+    padding:70px;
+}
+
+.form-content{
+    margin:10px;
+}
+
+form{
+    width:500px;
+    height: auto;
+}
+
+input[text]{
+    width: 300px;
+    height: 35px;
+}
+
+legend,label{
+    margin:5px;
+    font-weight: bold !important;
+}
+
+.btn{
+    background-color: #0067ac !important;
+    color: white !important;
+}
+
+ul{
+    list-style:none;
+    float: right !important;
+    margin: 30px;
+    padding:50px;
+}
+
+a{
+    text-decoration: none !important;
+    color: #0067ac !important;
+    font-weight: bold !important;
+    font-size: 20px !important;
+}
